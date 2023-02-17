@@ -1,0 +1,18 @@
+.Skills{ 
+    width: 99%;
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+   
+}
+ .Skills h1{
+    font-size: 2rem;
+ }
+ .Skills ul li{
+    margin-left: 2.5rem;
+    font-size: 1rem;
+}
+hr{
+    border: 2px solid gray;
+}

@@ -1,0 +1,15 @@
+.Experience{ 
+    width: 99%;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+   
+}
+ .Experience h1{
+    font-size: 2rem;
+ }
+ 
+hr{
+    border: 2px solid gray;
+}
